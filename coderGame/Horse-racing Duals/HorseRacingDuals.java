@@ -1,3 +1,8 @@
+//Horse-racing Duals
+//https://www.codingame.com/ide/puzzle/horse-racing-duals
+
+//author of solution: Cezary Gulba
+
 import java.util.*;
 import java.io.*;
 import java.math.*;

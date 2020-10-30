@@ -1,11 +1,13 @@
+//TEMPERATURES
+//https://www.codingame.com/ide/puzzle/temperatures
+
+//author of solution: Cezary Gulba
+
 import java.util.*;
 import java.io.*;
 import java.math.*;
 
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
+
 class Solution {
 
     public static void main(String args[]) {
@@ -26,8 +28,6 @@ class Solution {
         }else{
             result = 0;
         }
-        // Write an answer using System.out.println()
-        // To debug: System.err.println("Debug messages...");
         System.out.println(result);
     }
 }
